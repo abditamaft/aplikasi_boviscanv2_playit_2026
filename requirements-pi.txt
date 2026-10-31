@@ -1,0 +1,5 @@
+# Raspberry Pi OS (Bookworm 64-bit). numpy/scipy/opencv/picamera2 dipasang lewat apt (lihat scripts/install_pi.sh)
+PySide6-Essentials>=6.6
+ncnn>=1.0.2024
+smbus2>=0.4
+sounddevice>=0.4

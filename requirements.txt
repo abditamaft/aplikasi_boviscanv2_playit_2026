@@ -1,0 +1,6 @@
+# Laptop / Windows (tes). Disarankan Python 3.10 - 3.12
+PySide6-Essentials>=6.6
+ncnn>=1.0.2024
+opencv-python>=4.8
+numpy>=1.24
+scipy>=1.10

@@ -1,0 +1,25 @@
+description: Ultralytics YOLO11n model trained on /content/pmk-dan-lsd-sapi-2-1/data.yaml
+author: Ultralytics
+date: '2026-10-29T05:49:32.269224+00:00'
+version: 8.4.192
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+head: Detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: Kuku Terdeteksi PMK
+  1: Kuku Terdeteksi Sehat
+  2: Mulut Terdeteksi PMK
+  3: Mulut Terdeteksi Sehat
+  4: lumpy_skin
+  5: normal_skin
+args:
+  batch: 1
+  quantize: null
+channels: 3
+end2end: false
